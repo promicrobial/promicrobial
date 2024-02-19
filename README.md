@@ -1,3 +1,4 @@
+<body style="background-color:#b5b5b5;">
 <h1 align="center">Hi 👋, I'm Nate</h1>
 <h3 align="center">computational microbiologist in the Mehta research group</h3>
 
@@ -23,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=promicrobial&show_icons=true&theme=cobalt&locale=en" alt="promicrobial" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=promicrobial&" alt="promicrobial" /></p>
+</body>
