@@ -1,14 +1,5 @@
 <body style="background-color:#b5b5b5;">
-<style>
-.center {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 200px;
-  border: 3px solid green; 
-  background: #292C3C;
-}
-</style>
+
 <h1 align="center">Hi 👋, I'm Nate</h1>
 <h3 align="center">computational microbiologist in the Mehta research group</h3>
 
@@ -29,7 +20,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" background="#292C3C"> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/> </a> <a href="https://www.rstudio.com/categories/rstudio-ide/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="RStudio IDE" width="40" height="40"/></a> <a href="https://www.inkscape.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original-wordmark.svg" alt="inkscape" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/> </a> <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.github.com/cli/cli" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.minitab.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/minitab/minitab-original.svg" alt="minitab" width="40" height="40"/> </a> </p>
 
-<div class="center">
+<div align="center">
   <p><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=promicrobial&show_icons=true&locale=en&layout=compact&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be" alt="promicrobial" />
   &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=promicrobial&show_icons=true&theme=cobalt&locale=en&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be" alt="promicrobial" /></p>
 </div>
